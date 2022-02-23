@@ -1,2 +1,2 @@
-# Bioinformatics_Pipelines
-bioinformatics pipelines
+# Bioinformatics Pipelines
+
