@@ -6,9 +6,9 @@
 ## sh bsub.sh <memory int> <threads int> <any name> <any command>
 
 
-MEM=$1
-THREADS=$2
-NAME=$3
+MEM=$1;shift
+THREADS=$1;shift
+NAME=$1;shift
 
 DIR=`pwd`
 LOG=$DIR/logs
